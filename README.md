@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Deepak Chandola</h1>
-<h3 align="center">
-  I am passionate about technology, learning, and personal growth. With a keen interest in web development, cloud technologies, and data analytics, I enjoy building innovative solutions and finding creative ways to solve problems. My curiosity about geopolitics, both national and international, fuels my ability to think critically and predict trends, helping me generate unique ideas for projects. Additionally, my dedication to improving communication skills and mentoring students reflects my enthusiasm for collaboration and sharing knowledge.
-</h3>
+<b><h1 align="center">Hi 👋, I'm Deepak Chandola</h1></b>
+<i><h3 align="center" style="font-family: Arial, sans-serif; color: #2E86C1; font-style: italic; background-color: #F5F5F5; padding: 10px; border-radius: 10px;">
+  I am passionate about technology, learning, and personal growth. With a keen interest in web development, cloud technologies, and data analytics, I enjoy building innovative solutions and finding creative ways to solve problems. My curiosity about national and international geopolitics fuels my ability to think critically and predict trends, helping me generate unique ideas for projects. My dedication to improving communication skills and mentoring students reflects my enthusiasm for collaboration and sharing knowledge.
+</h3></i>
+
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://tenor.com/ci9ZhWhsUth.gif">
+  <img alt="Coding" width="200" src="https://tenor.com/ci9ZhWhsUth.gif">
 </div>
 
 <div align="center">
@@ -17,7 +18,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Databases like : MySQL, MongoDB, PostgreSQL**
+- 🌱 I’m currently learning **Databases like :  Mastering My Data Analytics Tools**
 
 - 📫 How to reach me **deepakchandola35@gmail.com**
 
