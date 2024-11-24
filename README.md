@@ -15,6 +15,7 @@
   I am passionate about technology, learning, and personal growth. With a keen interest in web development, cloud technologies, and data analytics, I enjoy building innovative solutions and finding creative ways to solve problems. My curiosity about national and international geopolitics fuels my ability to think critically and predict trends, helping me generate unique ideas for projects. My dedication to improving communication skills and mentoring students reflects my enthusiasm for collaboration and sharing knowledge.
 </h3>
 
+\
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak-chandola-2022to2026) 
 
@@ -24,6 +25,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Deepakchandola35&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Deepakchandola35&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakchandola35&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Deepakchandola35&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Deepakchandola35&limit=5&theme=dark&combine_all_yearly_contributions=true)
